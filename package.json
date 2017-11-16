@@ -1,0 +1,15 @@
+{
+  "name": "pi-play-subscriber",
+  "version": "0.0.1",
+  "description": "Emulates asking a google home to play a song.",
+  "main": "index.js",
+  "author": "Ernest Landrito",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/pubsub": "^0.14.8",
+    "jsonfile": "^4.0.0",
+    "player": "^0.6.1",
+    "playmusic": "^2.3.0",
+    "speaker": "^0.4.0"
+  }
+}
